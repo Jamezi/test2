@@ -13,9 +13,3 @@ k
 
 offsetof
 
-
-pl
-
-
-
-
